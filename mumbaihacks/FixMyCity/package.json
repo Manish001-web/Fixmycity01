@@ -1,0 +1,38 @@
+{
+  "name": "fixmycity",
+  "version": "1.0.0",
+  "description": "A platform for citizens to report local civic problems.",
+  "main": "src/App.tsx",
+  "scripts": {
+    "start": "react-native start",
+    "build": "react-native build",
+    "test": "react-native test",
+    "eject": "react-native eject"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-native": "^0.64.2",
+    "react-navigation": "^4.4.4",
+    "axios": "^0.21.1",
+    "react-native-image-picker": "^2.3.3",
+    "react-native-gesture-handler": "^1.10.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5",
+    "@types/react": "^17.0.2",
+    "@types/react-native": "^0.64.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/FixMyCity.git"
+  },
+  "keywords": [
+    "civic",
+    "report",
+    "community",
+    "issues",
+    "engagement"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
